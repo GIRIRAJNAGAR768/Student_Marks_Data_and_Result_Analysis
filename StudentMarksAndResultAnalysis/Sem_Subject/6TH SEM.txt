@@ -1,0 +1,12 @@
+CN(100) :
+DAA(100) :
+TOC(100) :
+CGMT(100) :
+ESD(100) :
+ATOS(100) :
+JAVA LAB(75) :
+CGM LAB(50) :
+DAA LAB(100) :
+ES LAB(75) :
+HSS(50) :
+DECA(50) :

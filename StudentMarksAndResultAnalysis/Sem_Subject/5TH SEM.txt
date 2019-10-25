@@ -1,0 +1,11 @@
+CA(100) :
+DLD(100) :
+TF(100) :
+DBMS(100) :
+OS(100) :
+ADS(100) :
+DB LAB(100) :
+SDU LAB(75) :
+OSS LAB(100) :
+DHD LAB(75) :
+DECA(50) :

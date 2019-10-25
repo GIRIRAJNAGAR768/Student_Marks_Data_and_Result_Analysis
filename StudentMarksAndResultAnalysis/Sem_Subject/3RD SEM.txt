@@ -1,0 +1,12 @@
+EDC(100) :
+DSA(100) :
+DE(100) :
+LINUX(100) :
+OOP(100) :
+AEM-I(100) :
+ED LAB(75) :
+DSA LAB(100) :
+DE LAB(50) :
+C++ LAB(75) :
+UNIX LAB(50) :
+DECA(50) :
